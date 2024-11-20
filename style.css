@@ -1,1 +1,24 @@
-
+@charset "UTF-8";
+h1 { 
+    color: black;
+    font-size: 50px;
+    font-family: "ヒラギノ丸ゴProN";
+  }
+  h2{
+    font-size: 40px;
+  }
+body{
+    background-color: #008b8b;
+}
+table{
+    border: 2px solid gray;
+    width: 1200px;
+    height: 500px;
+    font-size: 30px; 
+}
+th,td{
+    padding: 10px;  
+}
+li{
+  font-size: 15px;
+}
