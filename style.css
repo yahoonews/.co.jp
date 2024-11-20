@@ -7,6 +7,9 @@ h1 {
   h2{
     font-size: 40px;
   }
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
 body{
     background-color: #ffffff;
 }
@@ -22,6 +25,3 @@ th,td{
 li{
   font-size: 15px;
 }
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
